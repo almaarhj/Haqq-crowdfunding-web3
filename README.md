@@ -45,3 +45,7 @@ yarn release
 ## Join our Discord!
 
 For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+
+
+## Visualise the deploy smartcontract on thirdweb
+[https://thirdweb.com/haqq-chain-testnet/0x883A9387BBA9Eee3fC984e02c3485EC50Da3FfB2/code](https://thirdweb.com/haqq-chain-testnet/0x883A9387BBA9Eee3fC984e02c3485EC50Da3FfB2/code)
